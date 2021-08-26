@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>itemImg</key>
+		<string>listSearch</string>
+		<key>itemName</key>
+		<string>訂單細節</string>
+	</dict>
+	<dict>
+		<key>itemImg</key>
+		<string>locationFrom</string>
+		<key>itemName</key>
+		<string>導航起點</string>
+	</dict>
+	<dict>
+		<key>itemImg</key>
+		<string>loacationEnd</string>
+		<key>itemName</key>
+		<string>導航終點</string>
+	</dict>
+	<dict>
+		<key>itemImg</key>
+		<string>listMoney</string>
+		<key>itemName</key>
+		<string>修改價錢</string>
+	</dict>
+	<dict>
+		<key>itemImg</key>
+		<string>car_white</string>
+		<key>itemName</key>
+		<string>已經上車</string>
+	</dict>
+	<dict>
+		<key>itemImg</key>
+		<string>listFinsh</string>
+		<key>itemName</key>
+		<string>完成訂單</string>
+	</dict>
+	<dict>
+		<key>itemImg</key>
+		<string>money_white</string>
+		<key>itemName</key>
+		<string>線上收款</string>
+	</dict>
+	<dict>
+		<key>itemImg</key>
+		<string>list_white</string>
+		<key>itemName</key>
+		<string>線上簽收</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>itemName</key>
+		<string>接單條件</string>
+		<key>itemImg</key>
+		<string>order_condition_off</string>
+	</dict>
+	<dict>
+		<key>itemName</key>
+		<string>開始接單</string>
+		<key>itemImg</key>
+		<string>start_order_off</string>
+	</dict>
+	<dict>
+		<key>itemName</key>
+		<string>待跑訂單</string>
+		<key>itemImg</key>
+		<string>wait_order_off</string>
+	</dict>
+	<dict>
+		<key>itemName</key>
+		<string>過去訂單</string>
+		<key>itemImg</key>
+		<string>old_order_off</string>
+	</dict>
+	<dict>
+		<key>itemName</key>
+		<string>賬戶查詢</string>
+		<key>itemImg</key>
+		<string>account_search_off</string>
+	</dict>
+	<dict>
+		<key>itemName</key>
+		<string>個人資料</string>
+		<key>itemImg</key>
+		<string>personal_information_off</string>
+	</dict>
+</array>
+</plist>
